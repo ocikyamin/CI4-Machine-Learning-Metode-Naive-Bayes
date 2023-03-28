@@ -1,0 +1,11 @@
+HARGA TANAH (C1),JARAK DARI PUSAT KOTA (C2),ADA ANGUKTAN UMUM (C3),DIPILIH UNTUK PERUMAHAN (C4)
+Murah,Dekat,Tidak,Ya
+Sedang,Dekat,Tidak,Ya
+Mahal,Dekat,Tidak,Ya
+Mahal,Jauh,Tidak,Tidak
+Mahal,Sedang,Tidak,Tidak
+Sedang,Jauh,Ada,Tidak
+Murah,Jauh,Ada,Tidak
+Murah,Sedang,Tidak,Ya
+Mahal,Jauh,Ada,Tidak
+Sedang,Sedang,Ada,Ya
