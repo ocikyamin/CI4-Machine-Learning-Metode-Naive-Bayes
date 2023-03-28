@@ -1,19 +1,15 @@
 # Aplikasi PHP Machine Learning dengan Metode Naive Bayes - Codeigniter 4
-<hr>
-<b>Halaman Utama Aplikasi</b>
+Halaman Utama Aplikasi
+
 ![localhost_MKOM_PHP-ML_public_apps](https://user-images.githubusercontent.com/109882984/228162819-0ec26562-5796-4781-b537-14ec29ea5aa3.png)
 
-<hr>
-<b>CRUD Dataset</b>
+CRUD Dataset
 ![localhost_MKOM_PHP-ML_public_apps_samples](https://user-images.githubusercontent.com/109882984/228163341-908ecc98-8fd0-4ddb-b9d5-725404ad8664.png)
 
-
-<hr>
-<b>Prediksi dan Hasil</b>
+Prediksi dan Hasil
 ![localhost_MKOM_PHP-ML_public_apps_predict (1)](https://user-images.githubusercontent.com/109882984/228163575-c3a35e82-cd26-403e-9538-cab113e56697.png)
 
-<hr>
-<b>Uji Prediksi dengan mebagi Data Training dan Dataset</b>
+Uji Prediksi dengan mebagi Data Training dan Dataset
 ![localhost_MKOM_PHP-ML_public_apps_performance (1)](https://user-images.githubusercontent.com/109882984/228163692-1565e290-ffa1-40e0-a528-fb8e829f081f.png)
 
 
